@@ -39,9 +39,7 @@ $ npm i avue-form-design
 或
 $ yarn add avue-form-design
 ```
-```
-<script src="https://unpkg.com/avue-form-design@1.1.4/lib/index.umd.min.js"></script>
-```
+
 ### 源码
 
 <a href="https://github.com/sscfaith/avue-form-design" target="_blank">github</a>
