@@ -18,6 +18,14 @@ $ npm i @smallwei/avue
 ```
 
 或自行引入cdn
+<!-- 引入样式 -->
+<link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+<!-- 引入组件库 -->
+<script src="https://unpkg.com/element-ui/lib/index.js"></script>
+
+<script src="https://unpkg.com/@smallwei/avue@2.6.0/lib/avue.min.js"></script>
+
+
 
 ## 安装
 
@@ -28,6 +36,7 @@ $ npm i avue-form-design
 或
 $ yarn add avue-form-design
 ```
+<script src="https://unpkg.com/avue-form-design@1.1.4/lib/index.umd.min.js"></script>
 
 ### 源码
 
